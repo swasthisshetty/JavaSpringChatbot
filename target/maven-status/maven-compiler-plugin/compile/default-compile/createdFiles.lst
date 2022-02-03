@@ -1,0 +1,9 @@
+watsonassistant\Account.class
+watsonassistant\WatsonAssistantConfig.class
+watsonassistant\WatsonAssistantService.class
+watsonassistant\Application.class
+watsonassistant\WatsonAssistantMessage.class
+META-INF\spring-configuration-metadata.json
+watsonassistant\WatsonAssistantController.class
+watsonassistant\Transaction.class
+watsonassistant\AccountService.class
